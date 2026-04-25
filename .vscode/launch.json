@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/serpilsafa/Desktop/foundation_1/fundation/problemsolving/asset/sheet3",
-      "program": "/Users/serpilsafa/Desktop/foundation_1/fundation/problemsolving/asset/sheet3/build/Debug/outDebug"
+      "cwd": "/Users/serpilsafa/Desktop/foundation_1/fundation/problemsolving/asset/sheet4",
+      "program": "/Users/serpilsafa/Desktop/foundation_1/fundation/problemsolving/asset/sheet4/build/Debug/outDebug"
     }
   ]
 }
